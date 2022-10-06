@@ -1,6 +1,6 @@
-# meals_app
+# Meal Management Application
 
-A new Flutter project.
+A application to manage meals.
 
 ## Getting Started
 
